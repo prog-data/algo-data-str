@@ -1,1 +1,1 @@
-Прочитал в книге Grokking Algorithms: An illustrated guide for programmers and other curious people про алгоритмы и О-большое.
+РџСЂРѕС‡РёС‚Р°Р» РІ РєРЅРёРіРµ Grokking Algorithms: An illustrated guide for programmers and other curious people РїСЂРѕ Р°Р»РіРѕСЂРёС‚РјС‹ Рё Рћ-Р±РѕР»СЊС€РѕРµ.
